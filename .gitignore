@@ -108,3 +108,6 @@ dist
 
 #ignore .eslintrc.json and .eslintignore
 .eslint*
+
+#Prettier
+.prettierrc
