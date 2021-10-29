@@ -82,7 +82,7 @@ You will also need a github account. Get one [here](https://github.com/).
 14. All Done!
 ### Usage
 
-1. Now that everything is set up, to start the server:
+1. Now that everything is set up, start the server with:
 
         npm start
 
