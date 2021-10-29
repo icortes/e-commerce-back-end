@@ -1,8 +1,8 @@
-# Employee Tracker
+# E-Commerce Back End
 
+This is an example of a RESTful API. You can read, create, update and delete data with this e-commerce back end API. It is using Express.js with Sequelize to intereact with a MySQL database.
 
-
-[![image of webpage when it's generated](./assets/images/Screenshot.jpg)](https://watch.screencastify.com/v/wBF46MOQeXYhJPuMURU8)
+[![image of webpage when it's generated](./assets/images/Screenshot.jpg)](https://watch.screencastify.com/v/wYF7AuZzsNDhNxiBYPoL)
 
 _CLICK ON THE IMAGE TO SEE A DEMO_
 
@@ -111,5 +111,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Node.js documentation
-* inquirer documentation
+* Sequelize docs
